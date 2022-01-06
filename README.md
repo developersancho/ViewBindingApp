@@ -1,4 +1,4 @@
-## Android Clean Architecture
+## Android View Binding Base-Activity/Fragment/Dialog/View/RecyclerViewHolder
 
 [![CodeStyle](https://img.shields.io/badge/code%20style-%E2%9D%A4-FF4081.svg)](https://ktlint.github.io/)
 [![Kotlin Version](https://img.shields.io/badge/kotlin-1.6.10-blue.svg)](http://kotlinlang.org/)
